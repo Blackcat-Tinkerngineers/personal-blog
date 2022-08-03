@@ -1,0 +1,23 @@
+{
+  "name": "personal-blog-07302022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackcat-Tinkerngineers/personal-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blackcat-Tinkerngineers/personal-blog/issues"
+  },
+  "homepage": "https://github.com/Blackcat-Tinkerngineers/personal-blog#readme",
+  "dependencies": {
+    "phosphor-icons": "^1.4.2"
+  }
+}
