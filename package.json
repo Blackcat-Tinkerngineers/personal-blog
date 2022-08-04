@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Blackcat-Tinkerngineers/personal-blog#readme",
   "dependencies": {
+    "@fontsource/zen-kaku-gothic-antique": "^4.5.12",
     "phosphor-icons": "^1.4.2"
   }
 }
